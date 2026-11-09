@@ -1,0 +1,5 @@
+body{font-family:sans-serif;text-align:center;background:#1e293b;color:#fff;margin:0;padding:20px}
+.row{display:flex;justify-content:center;gap:40px}
+.die{font-size:90px}
+button{font-size:22px;padding:12px 40px;border:0;border-radius:10px;background:#22c55e;color:#fff}
+#result{font-size:22px;min-height:30px}
